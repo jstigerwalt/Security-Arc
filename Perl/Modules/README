@@ -1,0 +1,7 @@
+# Installing Perl Modules Manually
+
+wget http://libdnet.googlecode.com/files/libdnet-1.12.tgz
+tar xvfz libdnet-1.12.tgz
+cd libdnet-1.12/
+./configure
+make
