@@ -5,3 +5,12 @@ tar xvfz libdnet-1.12.tgz
 cd libdnet-1.12/
 ./configure
 make
+
+
+Perl Modules From CPAN:
+
+ perl Makefile.PL
+   make
+   make test
+   make install
+
